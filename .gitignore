@@ -1,0 +1,21 @@
+/text-1.txt
+/text-2.txt
+
+/index.html
+/style.css
+
+#ignore auto generated files each one
+
+#auto-gen-files/a.txt
+#auto-gen-files/b.txt
+#auto-gen-files/c.txt
+
+
+#ignore auto generated files all
+
+#auto-gen-files/*
+
+
+#ignore auto generated files, only .txt
+
+auto-gen-files/*.txt
