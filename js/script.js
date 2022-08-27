@@ -7,3 +7,6 @@ const b = () => {
     console.log('Hi there');
 };
 */
+
+const myFunc = () => {};
+    
